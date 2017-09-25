@@ -1,5 +1,5 @@
 
-#input - input_folder, output_folder
+#input - input_folder, output_folder, mode(1 or 2)
 
 
 import pexpect
